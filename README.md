@@ -10,5 +10,7 @@ Idea is make type much easy.
 
 That changes are not touch letters so you still can use qwerty or dvorak layout.
 
-Normal view ![Normal view](https://github.com/bga/Programmer-keyboard-layout/raw/master/img/normal.png)
-Shifted view ![Shifted view](https://github.com/bga/Programmer-keyboard-layout/raw/master/img/shift.png)
+== Normal view 
+![Normal view](https://github.com/bga/Programmer-keyboard-layout/raw/master/img/normal.png)
+== Shifted view 
+![Shifted view](https://github.com/bga/Programmer-keyboard-layout/raw/master/img/shift.png)
