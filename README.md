@@ -10,5 +10,5 @@ Idea is make type much easy.
 
 That changes are not touch letters so you still can use qwerty or dvorak layout.
 
-![Normal view]()
-![Shifted view]()
+![Normal view](https://github.com/bga/Programmer-keyboard-layout/raw/master/img/normal.png)
+![Shifted view](https://github.com/bga/Programmer-keyboard-layout/raw/master/img/shift.png)
