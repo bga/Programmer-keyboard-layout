@@ -5,7 +5,7 @@ Keyboard layout, optimized for programming
 Idea is make type much easy. 
 
 + In good code you dont have hardcoded data. Digits are more rarely need then operators. All digits are inverted related shift. Its also make possible to type numbers w/ _ and hex capital letters w/o releasing shift.
-+ Most langs are C based and intensively uses {} when [] need not so often. Inverted
++ Most langs are C based and intensively uses {} when [] need not so often. Putted to separate keys, right variant with shift due left variant often is autocompleted by right variant. Personally i have alt + left variant to open 3 lines form
 + New langs does not require ; when still uses : and | too far from center of keyboard. : w/o shift, | as shifted :, ; now at place of |
 + Inverted "/' because many langs uses " more often
 
